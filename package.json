@@ -61,7 +61,7 @@
     "webpack",
     "printDate"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "maintainers": [
     {
