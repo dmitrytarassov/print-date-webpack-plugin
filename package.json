@@ -1,79 +1,21 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "print-date-webpack-plugin@0.2.0",
-        "scope": null,
-        "escapedName": "print-date-webpack-plugin",
-        "name": "print-date-webpack-plugin",
-        "rawSpec": "0.2.0",
-        "spec": "0.2.0",
-        "type": "version"
-      },
-      "/Users/dima/k"
-    ]
-  ],
-  "_from": "print-date-webpack-plugin@0.2.0",
-  "_id": "print-date-webpack-plugin@0.2.0",
-  "_inCache": true,
-  "_location": "/print-date-webpack-plugin",
-  "_nodeVersion": "7.1.0",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/print-date-webpack-plugin-0.2.0.tgz_1511556851635_0.17529737250879407"
-  },
-  "_npmUser": {
-    "name": "dm.tarasov",
-    "email": "dm.tarasov.prog@gmail.com"
-  },
-  "_npmVersion": "3.10.9",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "print-date-webpack-plugin@0.2.0",
-    "scope": null,
-    "escapedName": "print-date-webpack-plugin",
-    "name": "print-date-webpack-plugin",
-    "rawSpec": "0.2.0",
-    "spec": "0.2.0",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "#DEV:/",
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/print-date-webpack-plugin/-/print-date-webpack-plugin-0.2.0.tgz",
-  "_shasum": "0eee3b06ff70475bd84154c1fe79d3f80001ef3a",
-  "_shrinkwrap": null,
-  "_spec": "print-date-webpack-plugin@0.2.0",
-  "_where": "/Users/dima/k",
-  "author": {
-    "name": "dm.tarassov@ya.ru"
-  },
-  "dependencies": {},
-  "description": "Plugin can print date before and after bundle info, also can print some lines before compilation started.",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "0eee3b06ff70475bd84154c1fe79d3f80001ef3a",
-    "tarball": "https://registry.npmjs.org/print-date-webpack-plugin/-/print-date-webpack-plugin-0.2.0.tgz"
-  },
-  "keywords": [
-    "webpack",
-    "printDate"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "maintainers": [
-    {
-      "name": "dm.tarasov",
-      "email": "dm.tarasov.prog@gmail.com"
-    }
-  ],
   "name": "print-date-webpack-plugin",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
+  "version": "0.4.0",
+  "description": "Plugin can print date before and after bundle info, also can print some lines before compilation started.",
+  "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.0"
+  "keywords": [
+    "webpack",
+    "printDate",
+    "lines",
+    "date"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrytarassov/print-date-webpack-plugin.git"
+  },
+  "author": "dm.tarassov@ya.ru",
+  "license": "MIT"
 }
