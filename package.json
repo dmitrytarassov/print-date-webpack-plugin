@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/dmitrytarassov/print-date-webpack-plugin/issues"
+  },
   "keywords": [
     "webpack",
     "printDate",
