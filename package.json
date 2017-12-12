@@ -1,6 +1,6 @@
 {
   "name": "print-date-webpack-plugin",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Plugin can print date before and after bundle info, also can print some lines before compilation started.",
   "main": "plugin.js",
   "scripts": {
